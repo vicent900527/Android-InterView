@@ -1,7 +1,7 @@
 # Android-InterView
 
 在github上下载了一份面试题，花了些时间做了一遍。
-多媒体那块的就没做了，但也记在这里。
+多媒体那块的就没做了。
 原面试题地址：[https://github.com/boredream/Android-Common-Interview-Questions](https://github.com/boredream/Android-Common-Interview-Questions)
 
 
